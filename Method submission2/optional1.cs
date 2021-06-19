@@ -8,12 +8,13 @@ namespace Method_submission2
 {
     class optional1
     {
-        public static void AddNumbers(int firstnumber, int[] secondnumber);
-        
-        int result = firstnumber + 5;
-        
-           Console.WriteLine(result);
+        public static void AddNumbers(int firstnumber, int secondnumber = 5)
+        {
 
+            int result = firstnumber + secondnumber;
+
+            Console.WriteLine(result);
+        }
 
     }
 }
