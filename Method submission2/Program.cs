@@ -9,12 +9,23 @@ namespace Method_submission2
             optional1 optional1 = new optional1();
 
             Console.WriteLine("input a number");
-            Console.ReadLine();
+            int v = Convert.ToInt32(Console.ReadLine());
 
             Console.WriteLine("input a second number or nothing");
-            Console.ReadLine();
+           string y = Console.ReadLine();
 
-             static void AddNumbers(numberone, numbertwo);
+             if (y == "")
+            {
+                optional1.AddNumbers(v);
+
+
+            }
+             else
+            {
+                int x = Convert.ToInt32(y);
+                optional1.AddNumbers(x, v);
+               
+            }
         }
     }
 }
