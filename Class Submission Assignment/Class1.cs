@@ -6,13 +6,26 @@ using System.Threading.Tasks;
 
 namespace Class_Submission_Assignment
 {
-    class Class1
+    public class Class1
     {
-        public void  Method1(int int1);
-    }
-    int int1 = Console.ReadLine();
-    int one = int1 / 2;
+      public void Method1(int x)
+      {
+        int result = x / 2;
+        Console.WriteLine(result);
 
-    return one;
+      }
+
+        public void Method2(out int y)
+        {
+
+            y = 13;
+
+        }
+        public void Method1(string b)
+        {
+            Console.WriteLine("the string is" + b);
+        }
+    }
+ 
 
 }
