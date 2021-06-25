@@ -14,7 +14,7 @@ namespace Methods_and_objects_submission_assignment
         public void SayName()
         {
         
-            Console.WriteLine(Name:[Firstname + Lastname]);
+            Console.WriteLine(Firstname + " " + Lastname);
         }
     }
 }
