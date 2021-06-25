@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\chefr\\Desktop\\Basic_C#_Programs\\Methods and objects submission assignment\\Methods and objects submission assignment.csproj": {}
+    "D:\\Documents\\C# Projects\\Methods and objects submission assignment\\Methods and objects submission assignment.csproj": {}
   },
   "projects": {
-    "C:\\Users\\chefr\\Desktop\\Basic_C#_Programs\\Methods and objects submission assignment\\Methods and objects submission assignment.csproj": {
+    "D:\\Documents\\C# Projects\\Methods and objects submission assignment\\Methods and objects submission assignment.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\chefr\\Desktop\\Basic_C#_Programs\\Methods and objects submission assignment\\Methods and objects submission assignment.csproj",
+        "projectUniqueName": "D:\\Documents\\C# Projects\\Methods and objects submission assignment\\Methods and objects submission assignment.csproj",
         "projectName": "Methods and objects submission assignment",
-        "projectPath": "C:\\Users\\chefr\\Desktop\\Basic_C#_Programs\\Methods and objects submission assignment\\Methods and objects submission assignment.csproj",
+        "projectPath": "D:\\Documents\\C# Projects\\Methods and objects submission assignment\\Methods and objects submission assignment.csproj",
         "packagesPath": "C:\\Users\\chefr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\chefr\\Desktop\\Basic_C#_Programs\\Methods and objects submission assignment\\obj\\",
+        "outputPath": "D:\\Documents\\C# Projects\\Methods and objects submission assignment\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
