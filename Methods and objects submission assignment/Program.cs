@@ -6,8 +6,11 @@ namespace Methods_and_objects_submission_assignment
     {
         static void Main(string[] args)
         {
-            Firstname first1 = new Firstname("Sample");
-            Lastname last1 = new Firstname("Student");
+            Employee employee = new Employee();
+            employee.Firstname = "Sample";
+            employee.Lastname = "Student";
+            employee.SayName();
+
         }
     }
 }
