@@ -9,7 +9,10 @@ namespace Abstract_Class_Submission_Assignment
 {
    public class Employee: Person
     {
-
-        Employee.SayName(firstName, lastName);
+        public override void SayName()
+        {
+            Console.WriteLine(firstName + " " + lastName);
+        }
+        
     }
 }
