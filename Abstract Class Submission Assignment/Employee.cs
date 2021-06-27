@@ -10,6 +10,6 @@ namespace Abstract_Class_Submission_Assignment
    public class Employee: Person
     {
 
-        Person.SayName(firstName, lastName);
+        Employee.SayName(firstName, lastName);
     }
 }
