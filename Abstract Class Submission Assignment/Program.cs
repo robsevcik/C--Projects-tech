@@ -7,13 +7,14 @@ namespace Abstract_Class_Submission_Assignment
         static void Main(string[] args)
         {
             Employee employee = new Employee();
+            Employee obj1 = new Employee();
 
             employee.firstName = "Sample";
             employee.lastName = "Student";
 
-            Employee.SayName();
+            obj1.SayName();
 
-            Console.WriteLine(Name:[Firstname + Lastname]);
+           
         }
     }
 }
