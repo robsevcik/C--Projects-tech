@@ -12,6 +12,8 @@ namespace Abstract_Class_Submission_Assignment
             employee.lastName = "Student";
 
             Employee.SayName();
+
+            Console.WriteLine(Name:[Firstname + Lastname]);
         }
     }
 }
