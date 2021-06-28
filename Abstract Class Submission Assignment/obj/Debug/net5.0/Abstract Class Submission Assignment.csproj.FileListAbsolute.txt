@@ -1,0 +1,5 @@
+D:\Documents\C# Projects\Abstract Class Submission Assignment\obj\Debug\net5.0\Abstract Class Submission Assignment.csproj.AssemblyReference.cache
+D:\Documents\C# Projects\Abstract Class Submission Assignment\obj\Debug\net5.0\Abstract Class Submission Assignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\C# Projects\Abstract Class Submission Assignment\obj\Debug\net5.0\Abstract Class Submission Assignment.AssemblyInfoInputs.cache
+D:\Documents\C# Projects\Abstract Class Submission Assignment\obj\Debug\net5.0\Abstract Class Submission Assignment.AssemblyInfo.cs
+D:\Documents\C# Projects\Abstract Class Submission Assignment\obj\Debug\net5.0\Abstract Class Submission Assignment.csproj.CoreCompileInputs.cache
