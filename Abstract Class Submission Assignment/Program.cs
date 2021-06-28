@@ -9,8 +9,8 @@ namespace Abstract_Class_Submission_Assignment
             Employee employee = new Employee();
             Employee obj1 = new Employee();
 
-            employee.firstName = "Sample";
-            employee.lastName = "Student";
+            obj1.Firstname = "Sample";
+            obj1.Lastname = "Student";
 
             obj1.SayName();
 
