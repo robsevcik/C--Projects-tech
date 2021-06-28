@@ -11,7 +11,7 @@ namespace Abstract_Class_Submission_Assignment
     {
         public override void SayName()
         {
-            Console.WriteLine(firstName + " " + lastName);
+            Console.WriteLine(Firstname + " " + Lastname);
         }
         
     }
