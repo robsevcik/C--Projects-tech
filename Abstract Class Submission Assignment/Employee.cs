@@ -7,12 +7,12 @@ using System.Threading.Tasks;
 
 namespace Abstract_Class_Submission_Assignment
 {
-   public class Employee: Person, IQuittable
+   public class Employee: Person, IQuittable//inherit the interface as many as you want//
     {
         public override void SayName()
         {
             Console.WriteLine(Firstname + " " + Lastname);
-        }
+        }//create an object with polymorphism
         IQuittable obj1 = new Employee();
         
         public void Quit()
