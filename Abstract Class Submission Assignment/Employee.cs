@@ -12,9 +12,8 @@ namespace Abstract_Class_Submission_Assignment
         public override void SayName()
         {
             Console.WriteLine(Firstname + " " + Lastname);
-        }//create an object with polymorphism
-        IQuittable obj1 = new Employee();
-        
+        }
+       
         public void Quit()
         {
             Console.WriteLine("test text1");
