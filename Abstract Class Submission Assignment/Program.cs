@@ -13,8 +13,11 @@ namespace Abstract_Class_Submission_Assignment
             obj1.Lastname = "Student";
 
             obj1.SayName();
+            //create an object with polymorphism//
+            IQuittable obj2 = new Employee();
 
-           
+            // call a method on the object//
+            obj2.Quit();
         }
     }
 }
