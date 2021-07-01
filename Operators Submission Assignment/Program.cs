@@ -8,11 +8,12 @@ namespace Operators_Submission_Assignment
         {
             Employee obj1 = new Employee();
             Employee obj2 = new Employee();
+
+            Console.WriteLine(obj1 == obj2);
         }
 
-        public static bool operator ==(obj1, obj2)
-        { 
+        
+        
 
-    Console.WriteLine(obj1 == obj2);
     }
 }
