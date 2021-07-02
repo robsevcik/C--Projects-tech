@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace Operators_Submission_Assignment
 {
-    public class Employee
+    public class Employee 
     {
-        public static bool operator ==(obj1, obj2)
-       
+        public int ID { get; set; }
+        public int ID1 { get; set; }
 
-       
+        public static bool operator ==(Employee obj1, Employee obj2);
     }
 }
