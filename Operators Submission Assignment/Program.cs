@@ -10,9 +10,10 @@ namespace Operators_Submission_Assignment
             Employee obj2 = new Employee();
 
             obj1.ID = (5);
-            obj2.ID1 = (6);
+            obj2.ID = (6);
 
             Console.WriteLine(obj1 == obj2);
+            Console.ReadLine();
         }
 
         
