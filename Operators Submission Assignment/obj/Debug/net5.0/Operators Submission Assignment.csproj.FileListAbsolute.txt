@@ -1,0 +1,16 @@
+D:\Documents\C# Projects\Operators Submission Assignment\bin\Debug\net5.0\Operators Submission Assignment.exe
+D:\Documents\C# Projects\Operators Submission Assignment\bin\Debug\net5.0\Operators Submission Assignment.deps.json
+D:\Documents\C# Projects\Operators Submission Assignment\bin\Debug\net5.0\Operators Submission Assignment.runtimeconfig.json
+D:\Documents\C# Projects\Operators Submission Assignment\bin\Debug\net5.0\Operators Submission Assignment.runtimeconfig.dev.json
+D:\Documents\C# Projects\Operators Submission Assignment\bin\Debug\net5.0\Operators Submission Assignment.dll
+D:\Documents\C# Projects\Operators Submission Assignment\bin\Debug\net5.0\ref\Operators Submission Assignment.dll
+D:\Documents\C# Projects\Operators Submission Assignment\bin\Debug\net5.0\Operators Submission Assignment.pdb
+D:\Documents\C# Projects\Operators Submission Assignment\obj\Debug\net5.0\Operators Submission Assignment.csproj.AssemblyReference.cache
+D:\Documents\C# Projects\Operators Submission Assignment\obj\Debug\net5.0\Operators Submission Assignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\C# Projects\Operators Submission Assignment\obj\Debug\net5.0\Operators Submission Assignment.AssemblyInfoInputs.cache
+D:\Documents\C# Projects\Operators Submission Assignment\obj\Debug\net5.0\Operators Submission Assignment.AssemblyInfo.cs
+D:\Documents\C# Projects\Operators Submission Assignment\obj\Debug\net5.0\Operators Submission Assignment.csproj.CoreCompileInputs.cache
+D:\Documents\C# Projects\Operators Submission Assignment\obj\Debug\net5.0\Operators Submission Assignment.dll
+D:\Documents\C# Projects\Operators Submission Assignment\obj\Debug\net5.0\ref\Operators Submission Assignment.dll
+D:\Documents\C# Projects\Operators Submission Assignment\obj\Debug\net5.0\Operators Submission Assignment.pdb
+D:\Documents\C# Projects\Operators Submission Assignment\obj\Debug\net5.0\Operators Submission Assignment.genruntimeconfig.cache
