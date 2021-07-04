@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\chefr\\source\\repos\\Operators Submission Assignment\\Operators Submission Assignment.csproj": {}
+    "D:\\Documents\\C# Projects\\Operators Submission Assignment\\Operators Submission Assignment.csproj": {}
   },
   "projects": {
-    "C:\\Users\\chefr\\source\\repos\\Operators Submission Assignment\\Operators Submission Assignment.csproj": {
+    "D:\\Documents\\C# Projects\\Operators Submission Assignment\\Operators Submission Assignment.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\chefr\\source\\repos\\Operators Submission Assignment\\Operators Submission Assignment.csproj",
+        "projectUniqueName": "D:\\Documents\\C# Projects\\Operators Submission Assignment\\Operators Submission Assignment.csproj",
         "projectName": "Operators Submission Assignment",
-        "projectPath": "C:\\Users\\chefr\\source\\repos\\Operators Submission Assignment\\Operators Submission Assignment.csproj",
+        "projectPath": "D:\\Documents\\C# Projects\\Operators Submission Assignment\\Operators Submission Assignment.csproj",
         "packagesPath": "C:\\Users\\chefr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\chefr\\source\\repos\\Operators Submission Assignment\\obj\\",
+        "outputPath": "D:\\Documents\\C# Projects\\Operators Submission Assignment\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
