@@ -8,7 +8,7 @@ namespace Operators_Submission_Assignment
         {
             Employee obj1 = new Employee();
             Employee obj2 = new Employee();
-
+            //ID Property//
             obj1.ID = (5);
             obj2.ID = (6);
 
