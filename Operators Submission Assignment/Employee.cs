@@ -10,12 +10,12 @@ namespace Operators_Submission_Assignment
     {
         public int ID { get; set; }
 
-
-        public static bool operator ==(Employee obj1, Employee obj2);
+                    //overloaded == pair//
+        public static bool operator ==(Employee obj1, Employee obj2)
         {
         return obj1.ID == obj2.ID;
-         }
-    public static bool operator !=(Employee obj1, Employee obj2);
+        }           //overloaded != pair//
+        public static bool operator !=(Employee obj1, Employee obj2)
         {
         return obj1.ID != obj2.ID;
         }
