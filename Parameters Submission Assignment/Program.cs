@@ -6,20 +6,21 @@ namespace Parameters_Submission_Assignment
     {
         static void Main(string[] args)
         {
-            Employee; string obj1 = new Employee();
+            Employee<string> obj1 = new Employee<string>();
 
             List<string> things = new List<string>();
 
-            things.Add("cat");
-            things.Add("dog");
-            things.Add("boy");
+            obj1.Things = new List<string> { "cat", "dog", "boy" };
 
-            Employee; int obj2 = new Employee();
+            Employee<int> obj2 = new Employee<int>();
 
-            things.Add(3);
-            things.Add(5);
-            things.Add(0235);
+            obj2.Things = new List<int> { 5, 3, 523 };
 
+            //loop through list with a for loop//
+            for (int i = 0; i < List.Count; i++)
+            {
+                Console.WriteLine(List[i]);
+            }
         }
     }
 
