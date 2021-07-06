@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace Parameters_Submission_Assignment
 {
-    class Employee<T>
+    public class Employee<T>//Generic with a class//
     {
-        public string Things  { get; set; }
+        public List<T> Things  { get; set; }
     
        
     }
