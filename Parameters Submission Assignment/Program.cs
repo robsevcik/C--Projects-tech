@@ -18,11 +18,11 @@ namespace Parameters_Submission_Assignment
             obj2.Things = new List<int> { 5, 3, 523 };
 
             //loop through list with a for loop//
-            for (int i = 0; i < obj1.Things.Count; i++)
+            foreach (string item in obj1.Things)
             {
                 Console.WriteLine(obj1.Things);
             }
-            for (int c = 0; c < obj2.Things.Count; c++) 
+            foreach (int item in obj2.Things) 
             {
                 Console.WriteLine(obj2.Things);
             }
