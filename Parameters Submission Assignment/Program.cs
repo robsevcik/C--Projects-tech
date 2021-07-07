@@ -20,11 +20,11 @@ namespace Parameters_Submission_Assignment
             //loop through list with a for loop//
             foreach (string item in obj1.Things)
             {
-                Console.WriteLine(obj1.Things);
+                Console.WriteLine(item);
             }
             foreach (int item in obj2.Things) 
             {
-                Console.WriteLine(obj2.Things);
+                Console.WriteLine(item);
             }
             
         }
