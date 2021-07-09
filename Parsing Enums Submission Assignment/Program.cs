@@ -5,36 +5,36 @@ namespace Parsing_Enums_Submission_Assignment
     public class Program
     {
 
-        public static void Main(string[] args);
-    }
-    public enum Day
-    {
-        Monday,
-        Tuesday,
-        Wednesday,
-        Thursday,
-        Friday,
-        Saturday,
-        Sunday,
+        public static void Main(string[] args)
+        {
+            public enum Day
+            {
+                Monday,
+                Tuesday,
+                Wednesday,
+                Thursday,
+                Friday,
+                Saturday,
+                Sunday,
 
-    }
-}
+            }
 
-    Console.WriteLine("enter the day of the week");
+
+            Console.WriteLine("enter the current day of the week");
         
-        i = Console.ReadLine();
+            i = Console.ReadLine();
     
-
-        try
-{
-    i = enum.Day;
+    
+                    try
+            {
+              string  i = enum.Day;
+            }
+                    catch (Exception ex)
+            {
+                Console.WriteLine("Please enter an actual day of the week");
+            }
 }
-        catch (Exception ex)
-{
-    Console.WriteLine("Please enter an actual day of the week");
 }
-
-
 
 
 
