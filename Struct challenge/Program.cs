@@ -6,17 +6,13 @@ namespace Struct_challenge
     {
         static void Main(string[] args)
         {
-            Program obj1 = new Program();
+          Class1 obj1 = new Class1();
 
-            number obj1 = a;
+       obj1 = 3.1;
 
+            Console.WriteLine(obj1);
 
-                   struct Amount
-            {
-
-                public decimal a;
-                public decimal b;
-            }
+             
 
         }
     }
