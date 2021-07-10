@@ -6,34 +6,52 @@ namespace Parsing_Enums_Submission_Assignment
     {
 
         public static void Main(string[] args)
+        { 
+
+            bool isvalid = false;
+
+            while (isvalid == false){ 
+                try
+                {
+                    Console.WriteLine("enter current day of the week");
+
+                    string Dayinput = Console.ReadLine();
+                    Day day = (Day)Enum.Parse(typeof(Day), Dayinput);
+                    Console.WriteLine("have a nice " + day);
+
+                    Console.ReadLine();
+                    isvalid = true;
+
+
+                }
+               catch (ArgumentException ex)
+                {
+                    Console.WriteLine("thats not a day of the week");
+                    Console.ReadLine();
+
+                }
+
+            }
+           
+        }
+        public enum Day
         {
-            public enum Day
-            {
-                Monday,
-                Tuesday,
-                Wednesday,
-                Thursday,
-                Friday,
-                Saturday,
-                Sunday,
+            Monday,
+            Tuesday,
+            Wednesday,
+            Thursday,
+            Friday,
+            Saturday,
+            Sunday,
 
-            }
+        }
 
 
-            Console.WriteLine("enter the current day of the week");
         
-            i = Console.ReadLine();
-    
-    
-                    try
-            {
-              string  i = enum.Day;
-            }
-                    catch (Exception ex)
-            {
-                Console.WriteLine("Please enter an actual day of the week");
-            }
-}
+
+
+
+    }
 }
 
 
